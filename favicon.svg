@@ -1,16 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
-  <defs>
-    <clipPath id="circleClip">
-      <circle cx="100" cy="100" r="98" />
-    </clipPath>
-  </defs>
-  <g clip-path="url(#circleClip)">
-    <rect x="1" y="1" width="198" height="198" fill="#f4ede2" />
-    <rect x="1" y="14" width="198" height="17" fill="#6b4a30" />
-    <rect x="1" y="44" width="198" height="17" fill="#6b4a30" />
-    <rect x="1" y="74" width="198" height="17" fill="#6b4a30" />
-    <rect x="1" y="104" width="198" height="17" fill="#6b4a30" />
-    <rect x="1" y="134" width="198" height="17" fill="#6b4a30" />
-    <rect x="1" y="164" width="198" height="17" fill="#6b4a30" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Mushroom Matcha tea seal</title>
+  <desc id="desc">Deep red circular seal with the white Japanese kanji for tea.</desc>
+  <circle cx="256" cy="256" r="232" fill="#9D2B24"/>
+  <circle cx="256" cy="256" r="232" fill="none" stroke="#7F1F1B" stroke-width="10"/>
+  <text x="256" y="278"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        font-family="Noto Serif CJK JP, Noto Serif JP, Yu Mincho, Hiragino Mincho ProN, serif"
+        font-size="250"
+        font-weight="600"
+        fill="#FFF8EE">茶</text>
 </svg>
