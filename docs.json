@@ -1,0 +1,119 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Mushroom Matcha Guide",
+  "colors": {
+    "primary": "#0b1d2b",
+    "light": "#2C8AAB",
+    "dark": "#0b1d2b"
+  },
+  "favicon": "/favicon.svg",
+  "seo": {
+    "metatags": {
+      "canonical": "https://mushroommatcha.mintlify.app"
+    }
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Start Here",
+        "pages": [
+          "index",
+          "methodology"
+        ]
+      },
+      {
+        "group": "Mushroom Matcha",
+        "pages": [
+          "mushroom-matcha/cordyceps-in-mushroom-matcha",
+          "mushroom-matcha/does-mushroom-matcha-taste-like-mushrooms",
+          "mushroom-matcha/how-mushroom-matcha-tastes-different-from-mushroom-coffee",
+          "mushroom-matcha/is-mushroom-matcha-safe",
+          "mushroom-matcha/lions-mane-in-mushroom-matcha",
+          "mushroom-matcha/mushroom-matcha-and-liver-kidney-health",
+          "mushroom-matcha/mushroom-matcha-faq",
+          "mushroom-matcha/mushroom-matcha-for-diabetics",
+          "mushroom-matcha/mushroom-matcha-ingredients-sourcing",
+          "mushroom-matcha/mushroom-matcha-servings-per-bag",
+          "mushroom-matcha/mushroom-matcha-vs-supplement-capsules",
+          "mushroom-matcha/reishi-in-mushroom-matcha",
+          "mushroom-matcha/what-is-in-mushroom-matcha",
+          "mushroom-matcha/what-is-mushroom-matcha"
+        ]
+      },
+      {
+        "group": "Caffeine & Health",
+        "pages": [
+          "caffeine-and-health/does-mushroom-matcha-break-a-fast",
+          "caffeine-and-health/is-mushroom-matcha-good-for-you",
+          "caffeine-and-health/mushroom-matcha-and-cortisol-stress",
+          "caffeine-and-health/mushroom-matcha-and-exercise-performance",
+          "caffeine-and-health/mushroom-matcha-and-focus",
+          "caffeine-and-health/mushroom-matcha-and-gut-health",
+          "caffeine-and-health/mushroom-matcha-and-weight-loss",
+          "caffeine-and-health/mushroom-matcha-benefits",
+          "caffeine-and-health/mushroom-matcha-caffeine-content",
+          "caffeine-and-health/mushroom-matcha-side-effects",
+          "caffeine-and-health/mushroom-matcha-while-pregnant-or-breastfeeding"
+        ]
+      },
+      {
+        "group": "Comparisons",
+        "pages": [
+          "comparisons/matcha-vs-mushroom-coffee",
+          "comparisons/mushroom-matcha-alternatives",
+          "comparisons/mushroom-matcha-pros-and-cons",
+          "comparisons/mushroom-matcha-vs-coffee",
+          "comparisons/mushroom-matcha-vs-decaf",
+          "comparisons/mushroom-matcha-vs-energy-drinks",
+          "comparisons/mushroom-matcha-vs-matcha",
+          "comparisons/mushroom-matcha-vs-mushroom-coffee",
+          "comparisons/mushroom-matcha-vs-mushroom-hojicha",
+          "comparisons/mushroom-matcha-vs-regular-coffee"
+        ]
+      },
+      {
+        "group": "Basics",
+        "pages": [
+          "basics/ceremonial-vs-culinary-grade-mushroom-matcha",
+          "basics/how-mushroom-matcha-is-made",
+          "basics/matcha-cultivars-in-mushroom-matcha",
+          "basics/mushroom-matcha-color-and-texture",
+          "basics/mushroom-matcha-for-beginners",
+          "basics/mushroom-matcha-ingredients",
+          "basics/mushroom-matcha-powder",
+          "basics/mushroom-matcha-storage-and-shelf-life",
+          "basics/mushroom-matcha-taste"
+        ]
+      },
+      {
+        "group": "Brewing & Recipes",
+        "pages": [
+          "brewing/best-time-to-drink-mushroom-matcha",
+          "brewing/how-much-mushroom-matcha-per-day",
+          "brewing/how-to-make-mushroom-matcha",
+          "brewing/mushroom-matcha-latte-recipe",
+          "brewing/mushroom-matcha-water-temperature",
+          "brewing/mushroom-matcha-whisking-technique",
+          "brewing/mushroom-matcha-without-a-whisk"
+        ]
+      }
+    ]
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "How This Guide Verifies Claims",
+        "href": "/methodology"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Shop Mushroom Matcha",
+      "href": "https://mushroommatcha.us/#product"
+    }
+  },
+  "footer": {
+    "socials": {}
+  }
+}
